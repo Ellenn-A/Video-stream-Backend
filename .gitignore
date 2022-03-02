@@ -1,5 +1,4 @@
 ./build
-./node-modules
- *.js
+./node_modules
 
 yarn-error.log
